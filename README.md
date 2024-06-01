@@ -1,6 +1,6 @@
 # Descrição
 
-Este é um sistema bancário simples desenvolvido em Python, que permite realizar operações bancárias básicas. O sistema oferece funcionalidades para gerenciar contas bancárias e usuários, realizar depósitos, saques, transferências, entre outros.
+Refatoração da primeira versão para o uso de funções de um sistema bancário simples desenvolvido em Python, que permite realizar operações bancárias básicas. O sistema oferece funcionalidades para gerenciar contas bancárias e usuários, realizar depósitos, saques, transferências, entre outros.
 
 ## Funcionalidades
 
