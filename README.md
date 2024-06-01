@@ -13,18 +13,3 @@ Consultar Saldo: Exibe o saldo atual de uma conta bancária.
 Exibir Extrato: Mostra o extrato de transações de uma conta bancária.
 Listar Contas: Lista todas as contas existentes no sistema.
 Encerramento de Conta: Permite encerrar uma conta bancária, desde que o saldo seja zero.
-
-## Menu Principal
-
-O menu principal do sistema apresenta as seguintes opções:
-=============== Menu ===============
-[1]     Depositar
-[2]     Sacar
-[3]     Extrato
-[4]     Novo usuário
-[5]     Nova Conta
-[6]     Listar Contas
-[7]     Transferir
-[8]     Consultar Saldo
-[9]     Encerramento de Conta
-[0]     Sair
